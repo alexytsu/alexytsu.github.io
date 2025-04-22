@@ -6,8 +6,8 @@ tags:
   - writing
 seo:
   image:
-    src: '/post-1.jpg'
-    alt: A person standing at the window
+    src: '/bee-cat.png'
+    alt: Is it a bee? Or a cat? It's bumblecat!
 ---
 
 Embracing the shittiness of first drafts makes it easier to start writing. Forget perfect, or even _good_. Just dump a first attempt on the page and edit it later.

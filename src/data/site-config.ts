@@ -38,10 +38,10 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     title: 'alexytsu',
     subtitle: 'Venture Building • Tech Wrangling',
-    description: 'Personal site of a startup builder',
+    description: 'Digital Garden',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/bee-cat.png',
+        alt: "Is it a bee? Or a cat? It's bumblecat!"
     },
     headerNavLinks: [
         {
