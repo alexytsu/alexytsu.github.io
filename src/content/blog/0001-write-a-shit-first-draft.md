@@ -54,8 +54,10 @@ Don't be afraid to revisit things at a later point in time. There is no rush to 
 
 I think the principle of writing imperfect first attempts also holds true for writing code.
 
-> The junior dev asked the senior dev “why are you pushing this code with no abstraction? What if you want to change it in the future?”
-> The senior dev responded “then I will change it in the future”
+> The junior dev asked the senior dev 'why are you pushing this code with no abstraction? What if you want to change it in the future?'
+>
+> The senior dev responded 'then I will change it in the future'
+>
 > In that moment the junior dev was enlightened[^1]
 
 It's even more relevant for code because speed of delivery matters. The sooner something is out, the sooner it's actually doing something useful. Now that it's working, you have time to make it better. In fact, now that it's working, you will have a better idea of how it needs to be abstracted. It's harder to one-shot the correct abstraction than designing it once you're already aware of all the "leaks" and implementation details it needs to account for.
